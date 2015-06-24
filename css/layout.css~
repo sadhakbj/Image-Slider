@@ -1,0 +1,15 @@
+	div.slider {
+		width: 960px;
+		overflow:hidden;
+		border:1px solid red;
+	}
+	div.image-wrapper {
+		width: 60000px;
+		border:1px solid blue;
+		transition-time:1s;
+	}
+	div.slider div div {
+		float:left;
+		width:960px;
+		border:1px solid green;
+	}

@@ -1,0 +1,19 @@
+	div.slider {
+		margin: 0 auto;
+		width: 960px;
+		height: 400px;
+		margin-top: 50px;
+		overflow:hidden;
+		position: relative;
+			}
+	div.image-wrapper {
+		width: 60000px;
+		/*position: relative;*/
+			}
+
+			
+	div.slider div div {
+		float:left;
+		width:960px;
+
+			}
